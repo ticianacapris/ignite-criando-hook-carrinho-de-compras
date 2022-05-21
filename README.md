@@ -24,4 +24,4 @@ Desafio 03 - Criando um hook de carrinho de compras
 - [x] Exibição de mensagens de erro;
 
 ## 👨‍🎓 Nota
-<img src="./.github/grade.png" alt="Nota do desafio">
+
